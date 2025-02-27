@@ -50,3 +50,15 @@
     border-radius: 50%;
     /* background-color: white; */
 }
+.food-item-counter{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    bottom: 15px;
+    right: 15px;
+    gap: 10px;
+    padding: 6px;
+    border-radius: 50px;
+    background-color: white;
+
+}
