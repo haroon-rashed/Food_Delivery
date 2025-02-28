@@ -5,6 +5,7 @@
     box-shadow: 0px 0px 0px #00000015;
     transition: all 0.3s;
     animation: fadeIn 3s;
+    
 }
 .food-item-img{
     width: 100%;
